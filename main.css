@@ -2,7 +2,34 @@
 	width: 250px;
 	height: 250px;
 }
-<style>
 
+body {background-color: black;}
 
-</style>
+h1 { color: white;
+	font-size: 50px;
+	font-family: arial; 
+	text-align: center;
+}
+h2 {
+	color: #FFFFFF;
+	font-size: 45px;
+	font-family: arial;
+	font-color: #D8BFD8;
+	text-align: center;}
+h3 {
+	font-size: 40px;
+	font-family: arial;
+	color: #FFFFFF;
+	text-align: center;
+	font-color: white; 
+}
+p {color: #FFFFFF;
+font-family: arial;
+font-size: 15px;}
+li {
+font-family: arial; 
+color: #FFFFFF;
+font-size: 15px;}
+.jumbotron {background-color: black; }
+thead {color: #FFFFFF;}
+tbody {color: #FFFFFF;}
