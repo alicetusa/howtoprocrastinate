@@ -31,5 +31,7 @@ font-family: arial;
 color: #FFFFFF;
 font-size: 15px;}
 .jumbotron {background-color: black; }
+.pros {color: #00CC00;}
+.cons {color: #CC0000;}
 thead {color: #FFFFFF;}
 tbody {color: #FFFFFF;}
